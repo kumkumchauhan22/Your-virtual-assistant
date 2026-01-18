@@ -1,0 +1,8 @@
+{
+  "name": "buddyfor_life",
+  "description": "A smart AI assistant that roasts your existential dread. Now with Live Voice, Image Editing, and Deep Thinking.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
